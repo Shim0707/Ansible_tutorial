@@ -3,4 +3,4 @@
 
 
 
-THis is my awesome ansible repository!!!
+This is my awesome Ansible repository!!!
